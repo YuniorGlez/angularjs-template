@@ -1,0 +1,1 @@
+Este será nuestro template para empezar a desarrollar una app de angular básica y sin rutas.
